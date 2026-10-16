@@ -1,4 +1,7 @@
 # Customer-Behavior-Segmentation-Using-Unsupervised-Machine-Learning
+
+## Customer Behavior Segmentation
+
 ### Project aim: 
 To identify distinct groups of online shoppers based on their browsing patterns and engagement metrics using clustering algorithms, and to analyze how these groups differ in purchase conversion rates to inform targeted marketing strategies and improve the online shopping experience.
 
